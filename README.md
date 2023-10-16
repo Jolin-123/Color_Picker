@@ -7,5 +7,4 @@ My submission for CPSC 411, Section 01, Lab Week 8
 # My Information
 
 * Name: Jiu Lin
-* CWID: 885881979
-* Email: linj_happy@csu.fullerton.edu
+* Email: milklinjob@gmail.com
